@@ -22,7 +22,9 @@ Clique [aqui](https://christyschott.github.io/portfolio.github.io/) para abrir.
 ## :telephone: Contato
 
 Para mais trabalhos acesse meu [LinkedIn](https://www.linkedin.com/in/christy-hauschild-0757431a4/). 
+
 Meu e-mail: christyhauschild@gmail.com
+
 Número de telefone: (51) 99658-5057
 
 
