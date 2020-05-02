@@ -19,7 +19,7 @@ Repositório para o meu portfólio, onde coloco alguns dos meu trabalhos, as lin
 
 Clique [aqui](https://christyschott.github.io/portfolio.github.io/) para abrir.
 
-## 🎨 Contato
+## :telephone: Contato
 
 Para mais trabalhos acesse meu [LinkedIn](https://www.linkedin.com/in/christy-hauschild-0757431a4/). 
 Meu e-mail: christyhauschild@gmail.com
