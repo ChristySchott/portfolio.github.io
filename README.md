@@ -12,7 +12,7 @@
 
 ## 💻 Resumo
 
-Repositório para o meu portfólio, onde coloco alguns dos meu trabalhos e um pouco mais sobre os cursos que completei.
+Repositório para o meu portfólio, onde coloco alguns dos meu trabalhos, as linguagens e frameworks que utilizo e um pouco mais sobre os cursos que completei.
 
 
 ## :rocket: Link
