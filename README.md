@@ -1,5 +1,5 @@
 <h1 align="center">
-  :snowflake: Portfolio :sunny:
+  :mortar_board: Portfolio :mortar_board:
 </h1>
 
 <p align="center">
